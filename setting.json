@@ -1,0 +1,46 @@
+{
+    "title": "床上嗯の主页",
+    "description": "一个平平无奇的主页",
+    "keywords": "床上嗯,个人主页",
+    "author": "床上嗯",
+    "logo_img": "./img/icon/avatar.jpg",
+    "logo_text_1": "床上嗯",
+    "logo_text_2": "top",
+    "github": "2020sqy",
+    "qq": "3124994032",
+    "email": "3124994032@qq.com",
+    "bilibili": "床上嗯",
+    "telegram": "床上嗯", //Telegram 用户名,
+    "link_1": [
+        "https://github.com/2020sqy",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "影视"
+    ],
+    "link_3": [
+        "https://github.com/2020sqy",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_4": [
+        "https://codenote.wuhobin.top",
+        "fa-solid fa-book-bookmark",
+        "编程宝典"
+    ],
+    "link_5": [
+        "http://www.wuhobin.top/",
+        "fa-solid fa-flask",
+        "开发中..."
+    ],
+    "link_6": [
+        "http://www.wuhobin.top/",
+        "fa-solid fa-flask",
+        "啦啦啦..."
+    ],
+    "Copyright_text": "床上嗯",
+    "beian": "皖ICP备20250420号"
+}
